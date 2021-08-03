@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+# Fexo
 
-You can use the [editor on GitHub](https://github.com/zhiyuckt/zhiyuckt.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+> A minimalist design theme for Hexo.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+> 一个极简主义设计的 Hexo 主题。
 
-### Markdown
+<a href="http://forsigner.com/" target="_blank">Demo</a>
+ |
+<a href="http://forsigner.com/2016/03/10/fexo-doc-zh-cn/" target="_blank">文档</a>
+ |
+<a href="http://forsigner.com/2016/03/10/fexo-doc-zh-tw/" target="_blank">文檔</a>
+ |
+<a href="http://forsigner.com/2016/03/10/fexo-doc-en/" target="_blank">Doc</a>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![screenshot-1](http://forsigner.com/images/fexo/mobile.png?v=1)
+![screenshot-1](http://forsigner.com/images/fexo/fexo-1.png?v=1)
+![screenshot-2](http://forsigner.com/images/fexo/fexo-2.png?v1)
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Browser compatibility
 
-- Bulleted
-- List
+- IE8+
+- Firefox
+- Chrome
+- Safari
+- Opera
 
-1. Numbered
-2. List
+### Contributing
 
-**Bold** and _Italic_ and `Code` text
+All kinds of contributions are welcome.
+All pull requests should be done on the dev branch.
 
-[Link](url) and ![Image](src)
-```
+欢迎任何改善的贡献，欢迎 Pull request 到 dev 分支。
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### License
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zhiyuckt/zhiyuckt.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+  [MIT](LICENSE)
