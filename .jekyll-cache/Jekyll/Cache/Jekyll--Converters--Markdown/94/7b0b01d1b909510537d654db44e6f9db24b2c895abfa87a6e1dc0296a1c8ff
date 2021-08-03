@@ -1,0 +1,16 @@
+I"�<h2 id="订阅地址">订阅地址</h2>
+<p>本站点的RSS地址为：<a href="http://www.jokinkuang.info/feed.xml">jokinkuang.info/feed.xml</a></p>
+
+<h2 id="qq邮箱订阅">QQ邮箱订阅</h2>
+<p>QQ邮箱提供的订阅接口失效了，搜了下原因，好像是因为有xss漏洞，不过可以通过以下步骤订阅：</p>
+
+<ol>
+  <li>进入QQ邮箱，打开左面板里的<code class="language-plaintext highlighter-rouge">阅读空间</code><br />
+ <img src="/w3c/images/qq/read-space.jpg" alt="read-space" /></li>
+  <li>点击<code class="language-plaintext highlighter-rouge">添加订阅</code> - 输入<code class="language-plaintext highlighter-rouge">jokinkuang.info/feed.xml</code> - 点击<code class="language-plaintext highlighter-rouge">订阅</code><br />
+ <img src="/w3c/images/qq/feed-query.jpg" alt="feed-query" /></li>
+  <li>确认<code class="language-plaintext highlighter-rouge">订阅</code><br />
+ <img src="/w3c/images/qq/feed-add.jpg" alt="feed-add" /></li>
+</ol>
+
+:ET
