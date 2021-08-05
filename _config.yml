@@ -1,0 +1,48 @@
+plugins: [jekyll-paginate]
+
+permalink: /:categories/:title/
+
+highlighter: rouge
+markdown: kramdown
+kramdown:
+  input:  GFM
+  syntax_highlighter: rouge
+
+
+paginate: 10
+paginate_path: "page/:num"
+baseurl: ""
+
+
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+      styles : [highlight.css,gitment.css,post.css]
+      scripts : [gitment.js, post.js]
+
+
+
+title: "治愈ckt-Blog"
+email: xxxx@gmail.com
+description: ""
+github:
+  username: zhiyuckt
+swiftype:
+  searchId: xxxxx
+gitment:
+    repo: blog
+    client_id: a6fb73b3e790e234bab8
+    client_secret: cc10aaff53a03d05ab2ee002dbf401dd7627c7a3
+
+# url: "https://bxit-ranger.github.io/blog"
+# imgrepo: "https://www.baidu.com/img/PCtm_d9c8750bed0b3c7d089fa7d55720d6cf.png"
+
+
+url: "https://zhiyuck.github.io"
+#imgrepo: "http://127.0.0.1:4000/static/img"
+
